@@ -5,6 +5,7 @@ public class Electrodomestico {
 	protected String modelo;
 	protected Double precio;
 	protected Integer stock;
+	protected String borrar;
 	
 	public Electrodomestico() {
 		// TODO Auto-generated constructor stub
