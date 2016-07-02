@@ -1,9 +1,9 @@
 package tp1;
 public class Fabricante {
 
-	protected String nombre;
-	protected String telefono;
-	protected String direccion;
+	public String nombre;
+	public String telefono;
+	public String direccion;
 		
 	public Fabricante() {
 		// TODO Auto-generated constructor stub
